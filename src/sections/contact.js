@@ -27,8 +27,8 @@ export default function Contact() {
               Address
             </Heading>
             <address itemProp="address">
-              <div>12100 7th St. NE</div>
-              <div>Blaine, MN 55434</div>
+              <div>3055 Old Hwy 8 Suite #343</div>
+              <div>Saint Anthony, MN 55418</div>
               <div>United States</div>
             </address>
           </Box>
